@@ -1,0 +1,1 @@
+{"globals":["game","workspace","script","task","Color3","Vector3","Vector2","CFrame","UDim2","UDim","Enum","Instance","os","math","string","table","pairs","ipairs","tostring","tonumber","pcall","print","tick","typeof","type","error","warn","require","select","unpack","next","rawget","rawset","setmetatable","getmetatable"]}

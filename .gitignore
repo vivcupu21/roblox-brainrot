@@ -1,0 +1,3 @@
+# Build output from `node main.ts` (the dossier's /output mirror) — never
+# committed, regenerated on every run.
+out/
